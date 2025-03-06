@@ -1,10 +1,10 @@
 # weather
 
-A new Flutter project.
+A new WeatherCast project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In this project get live weather conditions for your location and anywhere in the world.
 
 A few resources to get you started if this is your first Flutter project:
 
